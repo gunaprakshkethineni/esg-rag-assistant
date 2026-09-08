@@ -1,0 +1,560 @@
+{
+  "summary": {
+    "n_questions": 26,
+    "n_factual": 23,
+    "n_refusal": 3,
+    "retrieval_accuracy": 0.9130434782608695,
+    "answer_accuracy": 0.9565217391304348,
+    "refusal_accuracy": 0.6666666666666666,
+    "citation_consistency_rate": 0.6923076923076923,
+    "numeric_grounding_rate": 0.8076923076923077,
+    "fully_verified_rate": 0.5,
+    "mean_latency_seconds": 1.5160978615413814,
+    "p95_latency_seconds": 7.263729245023569,
+    "under_2s_rate": 0.9615384615384616
+  },
+  "rows": [
+    {
+      "id": "se1",
+      "category": "factual",
+      "question": "What was Siemens Energy's total Scope 1 greenhouse gas emissions in fiscal year 2024, in 1,000 metric tons CO2e?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 10.101281200011726,
+      "answer": "In fiscal year 2024, Siemens Energy's total Scope 1 greenhouse gas emissions were 175 (1,000 metric tons CO2e) [Siemens Energy, FY2024, p. 2].",
+      "retrieved_pages": [
+        2,
+        3,
+        31,
+        33,
+        85
+      ]
+    },
+    {
+      "id": "se2",
+      "category": "factual",
+      "question": "What was Siemens Energy's total Scope 2 (market-based) greenhouse gas emissions in fiscal year 2024?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.1158992000273429,
+      "answer": "Siemens Energy's total Scope 2 (market-based) greenhouse gas emissions in fiscal year 2024 were 22 thousand metric tons CO2e [Siemens Energy, FY2024, p. 2; Siemens Energy, FY2024, p. 33; Siemens Energy, FY2024, p. 85].",
+      "retrieved_pages": [
+        2,
+        13,
+        31,
+        33,
+        85
+      ]
+    },
+    {
+      "id": "se3",
+      "category": "factual",
+      "question": "What was Siemens Energy's total Scope 3 upstream emissions in fiscal year 2024, in 1,000 metric tons CO2e?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.3624224999803118,
+      "answer": "Siemens Energy's total Scope 3 upstream emissions in fiscal year 2024 were 9,238 thousand metric tons of CO2e [Siemens Energy, FY2024, p. 2].",
+      "retrieved_pages": [
+        2,
+        3,
+        30,
+        31,
+        34,
+        85
+      ]
+    },
+    {
+      "id": "se4",
+      "category": "factual",
+      "question": "What was Siemens Energy's combined Scope 1-3 total emissions in fiscal year 2024?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.0292260000132956,
+      "answer": "In fiscal year 2024, Siemens Energy's combined Scope 1-3 total emissions amounted to 1,343,077 (1,000 metric tons CO2e) [Siemens Energy, FY2024, p. 2].",
+      "retrieved_pages": [
+        2,
+        31,
+        33,
+        84,
+        85
+      ]
+    },
+    {
+      "id": "se5",
+      "category": "factual",
+      "question": "What was Siemens Energy's total recycling rate in fiscal year 2024?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": false,
+      "numerically_grounded": true,
+      "latency_seconds": 1.0296627000207081,
+      "answer": "Siemens Energy's total recycling rate (excluding construction and other waste) in fiscal year 2024 was 87% of total waste [Siemens Energy, FY2024, p. 4, p. 8].",
+      "retrieved_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        45,
+        85
+      ]
+    },
+    {
+      "id": "se6",
+      "category": "factual",
+      "question": "How many fatalities did Siemens Energy report for fiscal year 2024?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": false,
+      "numerically_grounded": true,
+      "latency_seconds": 1.4084711000323296,
+      "answer": "In fiscal year 2024, Siemens Energy reported a total of 6 fatalities, which breaks down to 2 employees and 4 contractors [Siemens Energy, FY2024, p. 7], [Siemens Energy, FY2024, p. 15].",
+      "retrieved_pages": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        41,
+        69,
+        85
+      ]
+    },
+    {
+      "id": "se7",
+      "category": "factual",
+      "question": "What was Siemens Energy's Customer Net Promoter Score (NPS) in fiscal year 2024?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": false,
+      "numerically_grounded": true,
+      "latency_seconds": 1.061441499972716,
+      "answer": "In fiscal year 2024, Siemens Energy's Customer Net Promoter Score (NPS) was 62 [Siemens Energy, FY2024, p. 2; Siemens Energy, FY2024, p. 7; Siemens Energy, FY2024, p. 10].",
+      "retrieved_pages": [
+        2,
+        6,
+        8,
+        21,
+        22,
+        23,
+        30,
+        37,
+        55
+      ]
+    },
+    {
+      "id": "sm1",
+      "category": "factual",
+      "question": "What are the six fields of action in Siemens' DEGREE sustainability framework?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.33632340002805,
+      "answer": "The six fields of action in Siemens' DEGREE sustainability framework are:\n\n1. Decarbonization [Siemens, FY2024, p. 3, p. 8]\n2. Ethics [Siemens, FY2024, p. 3, p. 8]\n3. Governance [Siemens, FY2024, p. 3, p. 8]\n4. Resource efficiency [Siemens, FY2024, p. 3, p. 8]\n5. Equity [Siemens, FY2024, p. 3, p. 8]\n6. Employability [Siemens, FY2024, p. 3, p. 8]",
+      "retrieved_pages": [
+        3,
+        8,
+        17,
+        19,
+        51,
+        92,
+        103,
+        109,
+        149
+      ]
+    },
+    {
+      "id": "sm2",
+      "category": "factual",
+      "question": "What is Siemens' SBTi-validated target for reducing absolute Scope 1 and 2 GHG emissions, and by what year?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": false,
+      "latency_seconds": 1.1272242999984883,
+      "answer": "Siemens' SBTi-validated target is to reduce absolute Scope 1 and 2 GHG emissions by 90% by fiscal 2030 from a fiscal 2019 base year [Siemens, FY2024, p. 65, Siemens, FY2025, p. 25].",
+      "retrieved_pages": [
+        25,
+        26,
+        27,
+        28,
+        36,
+        65
+      ]
+    },
+    {
+      "id": "sm3",
+      "category": "factual",
+      "question": "What is Siemens' SBTi target for reducing absolute Scope 3 GHG emissions, and by what year?",
+      "retrieval_hit": false,
+      "answer_hit": true,
+      "citation_consistent": false,
+      "numerically_grounded": true,
+      "latency_seconds": 0.9654331000056118,
+      "answer": "Siemens has committed to reduce absolute GHG emissions from its value chain by 30% by fiscal 2030 compared to fiscal 2019 [Siemens, FY2025, p. 25, p. 11].",
+      "retrieved_pages": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "sm4",
+      "category": "factual",
+      "question": "How many employees does Siemens report globally, including Siemens Healthineers?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": false,
+      "numerically_grounded": true,
+      "latency_seconds": 1.0576270999736153,
+      "answer": "Siemens employed 327,000 employees around the world as of September 30, 2024 [Siemens, FY2024, p. 10], which includes Siemens Healthineers [Siemens, FY2024, p. 2].",
+      "retrieved_pages": [
+        2,
+        6,
+        39,
+        59,
+        63,
+        71,
+        93,
+        96
+      ]
+    },
+    {
+      "id": "sm5",
+      "category": "factual",
+      "question": "What was Siemens' Scope 1 & 2 (market-based) GHG emissions baseline in fiscal year 2019, in ktCO2e, and what percentage reduction had been achieved against that baseline?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": false,
+      "numerically_grounded": true,
+      "latency_seconds": 1.2760340999811888,
+      "answer": "Siemens' Scope 1 & 2 (market-based) GHG emissions baseline in fiscal year 2019 was 938 ktCO\u2082e [Siemens, FY2025, p. 6, 9]. As of fiscal year 2025, a (62)% reduction had been achieved against that baseline [Siemens, FY2025, p. 6, 9].",
+      "retrieved_pages": [
+        7,
+        25,
+        26,
+        27,
+        28,
+        33
+      ]
+    },
+    {
+      "id": "sm6",
+      "category": "factual",
+      "question": "What was Siemens' Scope 3 GHG emissions baseline in fiscal year 2019, in ktCO2e?",
+      "retrieval_hit": true,
+      "answer_hit": false,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.0229054999654181,
+      "answer": "Siemens' Scope 3 GHG emissions baseline in fiscal year 2019 was 179,222 ktCO2e [Siemens, FY2025, p. 27].",
+      "retrieved_pages": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        33
+      ]
+    },
+    {
+      "id": "sm7",
+      "category": "factual",
+      "question": "What female share in Top Management did Siemens target for 2025, and what had it achieved by the end of fiscal 2024?",
+      "retrieval_hit": false,
+      "answer_hit": true,
+      "citation_consistent": false,
+      "numerically_grounded": true,
+      "latency_seconds": 1.0360363999498077,
+      "answer": "Siemens targeted a 30% female share in Top Management by 2025 [Siemens, FY2024, p. 4, 90]. By the end of fiscal 2024 (as of September 30, 2024), 32.6% of Top Management positions were held by women [Siemens, FY2024, p. 8].",
+      "retrieved_pages": [
+        5,
+        62,
+        63,
+        90,
+        98,
+        99,
+        101,
+        134
+      ]
+    },
+    {
+      "id": "sbr1",
+      "category": "factual",
+      "question": "What CO2e emissions reduction did Siemens report as Brazil's contribution in 2024?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.0208112000254914,
+      "answer": "Siemens reported a 68% reduction in CO\u2082e emissions as Brazil's contribution in 2024 [Siemens Brazil, 2024, p. 73].",
+      "retrieved_pages": [
+        4,
+        10,
+        36,
+        64,
+        66,
+        73,
+        75,
+        77,
+        96,
+        110
+      ]
+    },
+    {
+      "id": "sbr2",
+      "category": "factual",
+      "question": "Who is responsible for monitoring compliance with the DEGREE framework at the local country level according to Siemens' governance structure?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.1298833000473678,
+      "answer": "CEOs of Countries, Business Units, and Services are responsible for defining, implementing, and monitoring the local sustainability strategy in compliance with the DEGREE framework, sustainability reporting, and the due diligence process related to sustainability in business with clients [Siemens Brazil, 2024, p. 71].",
+      "retrieved_pages": [
+        70,
+        71,
+        99,
+        109,
+        111,
+        112,
+        113,
+        120
+      ]
+    },
+    {
+      "id": "ms1",
+      "category": "factual",
+      "question": "What percentage of Microsoft's total FY23 emissions did Scope 3 represent?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": false,
+      "latency_seconds": 0.9351148999994621,
+      "answer": "Scope 3 represented over 96% of Microsoft's total emissions in FY23 [Microsoft, 2024 (FY23 data), p. 10], specifically accounting for 96.50% [Microsoft, 2024 (FY23 data), p. 11].",
+      "retrieved_pages": [
+        5,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "ms2",
+      "category": "factual",
+      "question": "By what target year has Microsoft committed to being carbon negative?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.0215510000125505,
+      "answer": "Microsoft has committed to being carbon negative by the year 2030 [Microsoft, 2024 (FY23 data), p. 4].",
+      "retrieved_pages": [
+        4,
+        8,
+        9,
+        11,
+        13,
+        15,
+        24,
+        69,
+        85
+      ]
+    },
+    {
+      "id": "ms3",
+      "category": "factual",
+      "question": "By what percentage did Microsoft's overall emissions increase in FY23 relative to its base year?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": false,
+      "latency_seconds": 1.2244356000446714,
+      "answer": "Microsoft's overall emissions increased by 29.1% in FY23 relative to its base year [Microsoft, 2024 (FY23 data), p. 5, p. 13].",
+      "retrieved_pages": [
+        5,
+        11,
+        12,
+        13,
+        40,
+        43,
+        63,
+        64,
+        85
+      ]
+    },
+    {
+      "id": "ms4",
+      "category": "factual",
+      "question": "How many metric tons of carbon removal did Microsoft retire in FY23 as part of its carbon neutral annual target?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": false,
+      "latency_seconds": 1.1449965999927372,
+      "answer": "Microsoft retired 605,354 metric tons of carbon removal in FY23 as part of achieving its annual target to be carbon neutral [Microsoft, 2024 (FY23 data), p. 13].",
+      "retrieved_pages": [
+        4,
+        5,
+        7,
+        10,
+        11,
+        13,
+        19,
+        73
+      ]
+    },
+    {
+      "id": "ms5",
+      "category": "factual",
+      "question": "What share of Microsoft's FY23 Scope 3 emissions came from Capital Goods (Category 2)?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": false,
+      "latency_seconds": 1.0266886999597773,
+      "answer": "Capital Goods (Category 2) accounted for 38.24% of Microsoft's FY23 Scope 3 emissions [Microsoft, 2024 (FY23 data), p. 12].",
+      "retrieved_pages": [
+        5,
+        10,
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "if1",
+      "category": "factual",
+      "question": "By what year has Infosys committed to becoming net zero under its Climate Pledge?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 0.9700204000109807,
+      "answer": "Infosys has committed to becoming net zero by 2040 under its Climate Pledge [Infosys, FY2022-23, p. 11].",
+      "retrieved_pages": [
+        8,
+        11,
+        16,
+        17,
+        18,
+        56,
+        58
+      ]
+    },
+    {
+      "id": "if2",
+      "category": "factual",
+      "question": "Is Infosys described as the first Indian company to participate in the RE100 initiative?",
+      "retrieval_hit": true,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.146914899989497,
+      "answer": "Yes, Infosys is described as the first Indian company to participate in the RE100 initiative [Infosys, FY2022-23, p. 11].",
+      "retrieved_pages": [
+        11,
+        14,
+        24,
+        27,
+        28,
+        30,
+        33,
+        34,
+        48,
+        58
+      ]
+    },
+    {
+      "id": "if3_refusal",
+      "category": "refusal",
+      "question": "What was Infosys' absolute total Scope 1 emissions figure in metric tons CO2e for FY2022-23?",
+      "retrieval_hit": null,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.9939899000455625,
+      "answer": "I could not find this information in the provided ESG reports.",
+      "retrieved_pages": [
+        4,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        22,
+        57,
+        58
+      ]
+    },
+    {
+      "id": "cross1_refusal",
+      "category": "refusal",
+      "question": "What was Tesla's Scope 1 emissions in 2024?",
+      "retrieval_hit": null,
+      "answer_hit": true,
+      "citation_consistent": true,
+      "numerically_grounded": true,
+      "latency_seconds": 1.8175124999834225,
+      "answer": "I could not find this information in the provided ESG reports.",
+      "retrieved_pages": [
+        5,
+        10,
+        13,
+        22,
+        27,
+        28,
+        31,
+        33,
+        84,
+        85,
+        121,
+        122,
+        137
+      ]
+    },
+    {
+      "id": "cross2_refusal",
+      "category": "refusal",
+      "question": "What was Microsoft's water consumption in FY23, in million cubic meters?",
+      "retrieval_hit": null,
+      "answer_hit": false,
+      "citation_consistent": false,
+      "numerically_grounded": true,
+      "latency_seconds": 1.0566373000037856,
+      "answer": "Based on the water consumption table provided in the report, Microsoft's water consumption in FY23 was 7,843,744 $m^3$ (which is approximately 7.84 million cubic meters) [Microsoft, 2024 (FY23 data), p. 16].",
+      "retrieved_pages": [
+        2,
+        5,
+        7,
+        23,
+        25,
+        26,
+        28,
+        32,
+        73
+      ]
+    }
+  ]
+}

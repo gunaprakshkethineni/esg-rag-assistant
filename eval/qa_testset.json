@@ -1,0 +1,239 @@
+[
+  {
+    "id": "se1",
+    "company": "Siemens Energy",
+    "question": "What was Siemens Energy's total Scope 1 greenhouse gas emissions in fiscal year 2024, in 1,000 metric tons CO2e?",
+    "expected_page": 2,
+    "expected_source_file": "se-sr-2024-esg-performance-pdf_Original file.pdf",
+    "expected_answer_contains": ["175"],
+    "category": "factual"
+  },
+  {
+    "id": "se2",
+    "company": "Siemens Energy",
+    "question": "What was Siemens Energy's total Scope 2 (market-based) greenhouse gas emissions in fiscal year 2024?",
+    "expected_page": 2,
+    "expected_source_file": "se-sr-2024-esg-performance-pdf_Original file.pdf",
+    "expected_answer_contains": ["22"],
+    "category": "factual"
+  },
+  {
+    "id": "se3",
+    "company": "Siemens Energy",
+    "question": "What was Siemens Energy's total Scope 3 upstream emissions in fiscal year 2024, in 1,000 metric tons CO2e?",
+    "expected_page": 2,
+    "expected_source_file": "se-sr-2024-esg-performance-pdf_Original file.pdf",
+    "expected_answer_contains": ["9,238", "9238"],
+    "category": "factual"
+  },
+  {
+    "id": "se4",
+    "company": "Siemens Energy",
+    "question": "What was Siemens Energy's combined Scope 1-3 total emissions in fiscal year 2024?",
+    "expected_page": 2,
+    "expected_source_file": "se-sr-2024-esg-performance-pdf_Original file.pdf",
+    "expected_answer_contains": ["1,343,077", "1343077"],
+    "category": "factual"
+  },
+  {
+    "id": "se5",
+    "company": "Siemens Energy",
+    "question": "What was Siemens Energy's total recycling rate in fiscal year 2024?",
+    "expected_page": 4,
+    "expected_source_file": "se-sr-2024-esg-performance-pdf_Original file.pdf",
+    "expected_answer_contains": ["87"],
+    "category": "factual"
+  },
+  {
+    "id": "se6",
+    "company": "Siemens Energy",
+    "question": "How many fatalities did Siemens Energy report for fiscal year 2024?",
+    "expected_page": 6,
+    "expected_source_file": "se-sr-2024-esg-performance-pdf_Original file.pdf",
+    "expected_answer_contains": ["6"],
+    "category": "factual"
+  },
+  {
+    "id": "se7",
+    "company": "Siemens Energy",
+    "question": "What was Siemens Energy's Customer Net Promoter Score (NPS) in fiscal year 2024?",
+    "expected_page": 2,
+    "expected_source_file": "se-sr-2024-esg-performance-pdf_Original file.pdf",
+    "expected_answer_contains": ["62"],
+    "category": "factual"
+  },
+  {
+    "id": "sm1",
+    "company": "Siemens",
+    "question": "What are the six fields of action in Siemens' DEGREE sustainability framework?",
+    "expected_page": 8,
+    "expected_source_file": "sustainability-report.pdf",
+    "expected_answer_contains": ["Decarbonization", "Ethics", "Governance", "Resource efficiency", "Equity", "Employability"],
+    "category": "factual"
+  },
+  {
+    "id": "sm2",
+    "company": "Siemens",
+    "question": "What is Siemens' SBTi-validated target for reducing absolute Scope 1 and 2 GHG emissions, and by what year?",
+    "expected_page": 65,
+    "expected_source_file": "sustainability-report.pdf",
+    "expected_answer_contains": ["90%", "2030"],
+    "category": "factual"
+  },
+  {
+    "id": "sm3",
+    "company": "Siemens",
+    "question": "What is Siemens' SBTi target for reducing absolute Scope 3 GHG emissions, and by what year?",
+    "expected_page": 65,
+    "expected_source_file": "sustainability-report.pdf",
+    "expected_answer_contains": ["30%", "2030"],
+    "category": "factual"
+  },
+  {
+    "id": "sm4",
+    "company": "Siemens",
+    "question": "How many employees does Siemens report globally, including Siemens Healthineers?",
+    "expected_page": 2,
+    "expected_source_file": "sustainability-report.pdf",
+    "expected_answer_contains": ["327,000", "327000"],
+    "category": "factual"
+  },
+  {
+    "id": "sm5",
+    "company": "Siemens",
+    "question": "What was Siemens' Scope 1 & 2 (market-based) GHG emissions baseline in fiscal year 2019, in ktCO2e, and what percentage reduction had been achieved against that baseline?",
+    "expected_page": 26,
+    "expected_source_file": "sustainability-statement.pdf",
+    "expected_answer_contains": ["938", "62"],
+    "category": "factual"
+  },
+  {
+    "id": "sm6",
+    "company": "Siemens",
+    "question": "What was Siemens' Scope 3 GHG emissions baseline in fiscal year 2019, in ktCO2e?",
+    "expected_page": 26,
+    "expected_source_file": "sustainability-statement.pdf",
+    "expected_answer_contains": ["178,835", "178835"],
+    "category": "factual"
+  },
+  {
+    "id": "sm7",
+    "company": "Siemens",
+    "question": "What female share in Top Management did Siemens target for 2025, and what had it achieved by the end of fiscal 2024?",
+    "expected_page": 9,
+    "expected_source_file": "sustainability-report.pdf",
+    "expected_answer_contains": ["30%", "32.6"],
+    "category": "factual"
+  },
+  {
+    "id": "sbr1",
+    "company": "Siemens Brazil",
+    "question": "What CO2e emissions reduction did Siemens report as Brazil's contribution in 2024?",
+    "expected_page": 73,
+    "expected_source_file": "Relatorio-Institucional-ESG-ENG-2024.pdf",
+    "expected_answer_contains": ["68%"],
+    "category": "factual"
+  },
+  {
+    "id": "sbr2",
+    "company": "Siemens Brazil",
+    "question": "Who is responsible for monitoring compliance with the DEGREE framework at the local country level according to Siemens' governance structure?",
+    "expected_page": 71,
+    "expected_source_file": "Relatorio-Institucional-ESG-ENG-2024.pdf",
+    "expected_answer_contains": ["CEOs"],
+    "category": "factual"
+  },
+  {
+    "id": "ms1",
+    "company": "Microsoft",
+    "question": "What percentage of Microsoft's total FY23 emissions did Scope 3 represent?",
+    "expected_page": 12,
+    "expected_source_file": "Microsoft-2024-Environmental-Sustainability-Report.pdf",
+    "expected_answer_contains": ["96"],
+    "category": "factual"
+  },
+  {
+    "id": "ms2",
+    "company": "Microsoft",
+    "question": "By what target year has Microsoft committed to being carbon negative?",
+    "expected_page": 11,
+    "expected_source_file": "Microsoft-2024-Environmental-Sustainability-Report.pdf",
+    "expected_answer_contains": ["2030"],
+    "category": "factual"
+  },
+  {
+    "id": "ms3",
+    "company": "Microsoft",
+    "question": "By what percentage did Microsoft's overall emissions increase in FY23 relative to its base year?",
+    "expected_page": 13,
+    "expected_source_file": "Microsoft-2024-Environmental-Sustainability-Report.pdf",
+    "expected_answer_contains": ["29.1"],
+    "category": "factual"
+  },
+  {
+    "id": "ms4",
+    "company": "Microsoft",
+    "question": "How many metric tons of carbon removal did Microsoft retire in FY23 as part of its carbon neutral annual target?",
+    "expected_page": 13,
+    "expected_source_file": "Microsoft-2024-Environmental-Sustainability-Report.pdf",
+    "expected_answer_contains": ["605,354", "605354"],
+    "category": "factual"
+  },
+  {
+    "id": "ms5",
+    "company": "Microsoft",
+    "question": "What share of Microsoft's FY23 Scope 3 emissions came from Capital Goods (Category 2)?",
+    "expected_page": 12,
+    "expected_source_file": "Microsoft-2024-Environmental-Sustainability-Report.pdf",
+    "expected_answer_contains": ["38.24", "38.2"],
+    "category": "factual"
+  },
+  {
+    "id": "if1",
+    "company": "Infosys",
+    "question": "By what year has Infosys committed to becoming net zero under its Climate Pledge?",
+    "expected_page": 11,
+    "expected_source_file": "infosys-esg-report-2022-23.pdf",
+    "expected_answer_contains": ["2040"],
+    "category": "factual"
+  },
+  {
+    "id": "if2",
+    "company": "Infosys",
+    "question": "Is Infosys described as the first Indian company to participate in the RE100 initiative?",
+    "expected_page": 11,
+    "expected_source_file": "infosys-esg-report-2022-23.pdf",
+    "expected_answer_contains": ["RE100", "first"],
+    "category": "factual"
+  },
+  {
+    "id": "if3_refusal",
+    "company": "Infosys",
+    "question": "What was Infosys' absolute total Scope 1 emissions figure in metric tons CO2e for FY2022-23?",
+    "expected_page": null,
+    "expected_source_file": null,
+    "expected_answer_contains": [],
+    "category": "refusal",
+    "note": "This document is a narrative ESG highlights report and does not tabulate absolute Scope 1/2/3 tCO2e figures anywhere in its 65 pages (verified by keyword search across all pages) -- it only states a qualitative carbon-neutrality commitment. A correct system should refuse rather than invent a number."
+  },
+  {
+    "id": "cross1_refusal",
+    "company": null,
+    "question": "What was Tesla's Scope 1 emissions in 2024?",
+    "expected_page": null,
+    "expected_source_file": null,
+    "expected_answer_contains": [],
+    "category": "refusal",
+    "note": "Tesla is not among the ingested reports (Infosys, Microsoft, Siemens, Siemens Energy, Siemens Brazil). Tests that the system doesn't fall back on outside/parametric knowledge."
+  },
+  {
+    "id": "cross2_refusal",
+    "company": "Microsoft",
+    "question": "What was Microsoft's water consumption in FY23, in million cubic meters?",
+    "expected_page": null,
+    "expected_source_file": null,
+    "expected_answer_contains": [],
+    "category": "refusal",
+    "note": "Best-effort probe for a figure that may not be present as an absolute number in this particular PDF's text layer (the water chapter may be primarily graphical). If retrieval finds it, this should be reclassified as factual before final eval scoring."
+  }
+]
