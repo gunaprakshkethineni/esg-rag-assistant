@@ -1,0 +1,21 @@
+company,scope,value,unit,found,citation_consistent,source_pages,latency_seconds,raw_answer
+Infosys,Scope 1,,,False,True,p.10;p.10;p.11;p.11;p.11;p.11;p.13;p.13;p.13;p.17;p.17;p.17;p.18;p.18;p.18,5.89,I could not find this information in the provided ESG reports.
+Infosys,Scope 2 (market-based),,,False,True,p.10;p.10;p.11;p.11;p.11;p.11;p.13;p.13;p.13;p.17;p.17;p.17;p.18;p.18;p.18,0.73,I could not find this information in the provided ESG reports.
+Infosys,Scope 2 (location-based),,,False,True,p.10;p.10;p.11;p.11;p.11;p.11;p.13;p.13;p.13;p.14;p.14;p.17;p.17;p.17,0.91,I could not find this information in the provided ESG reports.
+Infosys,Scope 3,,,False,True,p.10;p.10;p.11;p.11;p.11;p.11;p.13;p.13;p.13;p.17;p.17;p.17;p.18;p.18;p.18,0.98,I could not find this information in the provided ESG reports.
+Microsoft,Scope 1,,,False,True,p.5;p.5;p.10;p.10;p.10;p.13;p.13;p.13;p.85;p.85,2.93,I could not find this information in the provided ESG reports.
+Microsoft,Scope 2 (market-based),,,False,True,p.5;p.5;p.10;p.10;p.12;p.12;p.13;p.13;p.13;p.16;p.16;p.85;p.85,0.89,I could not find this information in the provided ESG reports.
+Microsoft,Scope 2 (location-based),,,False,True,p.5;p.5;p.10;p.10;p.12;p.12;p.13;p.13;p.13;p.16;p.16;p.85;p.85,0.83,I could not find this information in the provided ESG reports.
+Microsoft,Scope 3,,,False,True,p.5;p.5;p.6;p.6;p.6;p.10;p.10;p.12;p.12;p.13;p.13;p.13;p.85;p.85,3.81,I could not find this information in the provided ESG reports.
+Siemens,Scope 1,288.3,ktCO₂e,True,False,p.67;p.67;p.67;p.67;p.27;p.27;p.27;p.33;p.33;p.33;p.34;p.34;p.34;p.35;p.35;p.35,0.81,"The total gross Scope 1 GHG emissions are 288.3 ktCO₂e [Siemens, FY2025, p. 10]."
+Siemens,Scope 2 (market-based),70.7,ktCO₂e for fiscal year 202,True,False,p.67;p.67;p.67;p.67;p.27;p.27;p.27;p.33;p.33;p.34;p.34;p.34;p.34;p.34,0.89,"Total gross market-based Scope 2 greenhouse gas emissions for Siemens were 70.7 ktCO₂e for fiscal year 2025 [Siemens, FY2025, p. 10]."
+Siemens,Scope 2 (location-based),633.0,ktCO₂e,True,False,p.137;p.137;p.137;p.27;p.27;p.27;p.27;p.27;p.33;p.33;p.33;p.34;p.34;p.34;p.34;p.34;p.34,0.87,"Total gross Scope 2 location-based greenhouse gas emissions for Siemens are 633.0 ktCO₂e [Siemens, FY2025, p. 12]."
+Siemens,Scope 3,"416,758",thousand metric tons of CO,True,True,p.67;p.67;p.67;p.137;p.137;p.137;p.27;p.27;p.27;p.27;p.27;p.28;p.28;p.28;p.35;p.35,0.84,"In fiscal 2024, the total Scope 3 greenhouse gas emissions (all categories combined) for Siemens were 416,758 thousand metric tons of CO2-equivalents [Siemens, FY2024, p. 67]."
+Siemens Brazil,Scope 1,,,False,True,p.10;p.10;p.10;p.59;p.59;p.59;p.64;p.64;p.73;p.73;p.75;p.75,0.7,I could not find this information in the provided ESG reports.
+Siemens Brazil,Scope 2 (market-based),,,False,True,p.10;p.10;p.16;p.16;p.16;p.59;p.59;p.59;p.75;p.75;p.76;p.76;p.82;p.82,0.72,I could not find this information in the provided ESG reports.
+Siemens Brazil,Scope 2 (location-based),,,False,True,p.10;p.10;p.16;p.16;p.16;p.18;p.18;p.59;p.59;p.59;p.75;p.75;p.82;p.82,0.72,I could not find this information in the provided ESG reports.
+Siemens Brazil,Scope 3,,,False,True,p.3;p.3;p.10;p.10;p.16;p.16;p.16;p.59;p.59;p.59;p.75;p.75;p.77;p.77,0.84,I could not find this information in the provided ESG reports.
+Siemens Energy,Scope 1,175,metric tons CO2e,True,True,p.2;p.2;p.3;p.3;p.31;p.31;p.85;p.85;p.85;p.85;p.85;p.86;p.86;p.86,1.06,"In fiscal year 2024, Siemens Energy's total Scope 1 direct greenhouse gas emissions were 175 (1,000 metric tons CO2e) [Siemens Energy, FY2024, p. 2]."
+Siemens Energy,Scope 2 (market-based),2,or 22,True,True,p.2;p.2;p.3;p.3;p.31;p.31;p.33;p.33;p.85;p.85;p.85;p.85;p.85,1.06,"In fiscal year 2024, Siemens Energy's total Scope 2 (market-based) greenhouse gas emissions were 22 [Siemens Energy, FY2024, p. 2] (or 22,000 metric tons CO2e, derived from the unit ""1,000 metric tons CO2e"" [Siemens Energy, FY2024, p. 2])."
+Siemens Energy,Scope 2 (location-based),,,False,True,p.2;p.2;p.3;p.3;p.31;p.31;p.33;p.33;p.85;p.85;p.85;p.85;p.85,1.2,I could not find this information in the provided ESG reports.
+Siemens Energy,Scope 3,,,False,True,p.2;p.2;p.3;p.3;p.31;p.31;p.31;p.84;p.84;p.85;p.85;p.85;p.85;p.85,0.77,I could not find this information in the provided ESG reports.

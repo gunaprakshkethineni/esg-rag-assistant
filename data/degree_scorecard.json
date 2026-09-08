@@ -1,0 +1,231 @@
+{
+  "framework_source": "Siemens Sustainability Report 2024, section 1.1 'Our DEGREE sustainability framework sets measurable ambitions' (p.8-9). Applied here only to Siemens; other companies are checked against their own stated targets instead of being force-fit into a framework that isn't theirs.",
+  "siemens_degree": {
+    "D": {
+      "name": "Decarbonization",
+      "description": "Support the 1.5C target to fight global warming.",
+      "stated_target": "Reduce emissions in own operations by 55% by 2025 (vs. FY19 baseline of 737 kt CO2e) and by 90% by 2030; Net Zero supply chain by 2050 with 20% reduction by 2030.",
+      "rag_verified_progress": "Siemens set an interim reduction target for its business operations (Scope 1 and 2 emissions for Siemens without Siemens Healthineers) of 55% by fiscal 2025 compared to fiscal 2019, and reached its ambition one year in advance [Siemens, FY2024, p. 66]. Furthermore, in fiscal 2025, Siemens without SHS achieved an overall reduction of 66% for Scope 1 and 2 emissions compared to the base year 2019 [Siemens, FY2025, p. 12].",
+      "citation_consistent": false,
+      "source_pages": [
+        66,
+        66,
+        66,
+        155,
+        155,
+        7,
+        7,
+        25,
+        25,
+        25,
+        28,
+        28,
+        28
+      ],
+      "latency_seconds": 6.11
+    },
+    "E1": {
+      "name": "Ethics",
+      "description": "Foster a culture of trust, adhere to ethical standards, and handle data with care.",
+      "stated_target": "Train 100% of employees on the Business Conduct Guidelines every three years, by 2025.",
+      "rag_verified_progress": "In fiscal year 2024, the Business Conduct Guidelines (BCG) training was rolled out to 118,000 employees worldwide, and 102,000 of them (approximately 86%) had successfully completed the training [Siemens, FY2024, p. 39]. Additionally, by the end of fiscal year 2024, the BCG training had been rolled out to 97% of all active employees worldwide with a current KPI result of 91% trained employees (excluding SHS) [Siemens, FY2024, p. 38]. Furthermore, since fiscal 2023, Siemens has trained 99% of its people on the BCG (Scope: Siemens w/o SHS) [Siemens, FY2025, p. 85].",
+      "citation_consistent": true,
+      "source_pages": [
+        38,
+        38,
+        39,
+        39,
+        39,
+        51,
+        51,
+        92,
+        92,
+        92,
+        85,
+        85,
+        85,
+        85
+      ],
+      "latency_seconds": 1.19
+    },
+    "G": {
+      "name": "Governance",
+      "description": "Apply state-of-the-art systems for effective and responsible business conduct.",
+      "stated_target": "ESG-secured supply chain based on supplier commitment to the Supplier Code of Conduct; long-term incentives anchored to ESG criteria.",
+      "rag_verified_progress": "Yes, Siemens has anchored ESG criteria into long-term management incentives [Siemens, FY2024, p. 9, p. 26]. Additionally, suppliers are committed to the Supplier Code of Conduct, which is part of the governance ambitions in the DEGREE sustainability framework [Siemens, FY2024, p. 9, p. 56].",
+      "citation_consistent": true,
+      "source_pages": [
+        9,
+        9,
+        26,
+        26,
+        26,
+        56,
+        56,
+        56,
+        86,
+        86,
+        86,
+        87,
+        87
+      ],
+      "latency_seconds": 0.92
+    },
+    "R": {
+      "name": "Resource efficiency",
+      "description": "Achieve circularity, dematerialize, and conserve biodiversity.",
+      "stated_target": "Robust Eco Design for 100% of relevant portfolio by 2030; zero landfill waste by 2030 (50% waste-to-landfill reduction by 2025).",
+      "rag_verified_progress": "Regarding Siemens' progress toward its waste-to-landfill reduction target:\n- Compared to the base year 2021, Siemens reduced its landfill waste by 30% [Siemens, FY2024, p. 74].\n- Siemens also achieved a 52% reduction in its waste to landfill rate since fiscal 2021, achieving its fiscal 2025 target of a 50% reduction and showing progress toward its fiscal 2030 target [Siemens, FY2025, p. 53].\n\nRegarding Eco Design coverage of its portfolio:\n- Siemens has a key ambition to achieve \"Robust Eco Design for 100% of relevant hardware, software, and service portfolio by 2030\" [Siemens, FY2024, p. 61].",
+      "citation_consistent": true,
+      "source_pages": [
+        61,
+        61,
+        61,
+        74,
+        74,
+        50,
+        50,
+        50,
+        53,
+        53,
+        53,
+        53,
+        54,
+        54,
+        54
+      ],
+      "latency_seconds": 1.42
+    },
+    "E2": {
+      "name": "Equity",
+      "description": "Foster diversity, equity, inclusion, and community development.",
+      "stated_target": "30% female share in Top Management by 2025 (baseline FY20: 22.7%).",
+      "rag_verified_progress": "As of September 30, 2024, 32.6% of Top Management positions at Siemens were held by women, which successfully reached the DEGREE ambition target of 30% female share in Top Management by 2025 in advance [Siemens, FY2024, p. 99]. Additionally, as of September 30, 2025, the female representation at the top management level (defined as management levels one and two below the Siemens Managing Board) was 33% (163 in headcount) [Siemens, FY2025, p. 67].",
+      "citation_consistent": true,
+      "source_pages": [
+        99,
+        99,
+        99,
+        101,
+        101,
+        101,
+        62,
+        62,
+        62,
+        62,
+        67,
+        67,
+        67
+      ],
+      "latency_seconds": 1.04
+    },
+    "E3": {
+      "name": "Employability",
+      "description": "Enable people to stay resilient and relevant in a changing environment.",
+      "stated_target": "Increase digital learning hours to 25 per employee by 2025 (baseline FY20: 7 hours); 30% improvement in global LTIFR by 2025 (baseline FY20: 0.31).",
+      "rag_verified_progress": "Siemens reached 27 digital learning hours per employee [Siemens, FY2024, p. 9, p. 90, p. 134] (or 27h [Siemens, FY2024, p. 2]), compared to its target of \"25 by 25\" (25 hours by 2025) [Siemens, FY2024, p. 9, p. 90, p. 134]. \n\nFor the Lost Time Injury Frequency Rate (LTIFR), Siemens achieved a 19% improvement compared to the baseline (-19% to base year 2020) [Siemens, FY2024, p. 9, p. 134], against its target of a 30% improvement in Siemens' globally aggregated LTIFR by 2025 (-30% by 2025) [Siemens, FY2024, p. 9, p. 90].",
+      "citation_consistent": false,
+      "source_pages": [
+        9,
+        9,
+        90,
+        90,
+        103,
+        103,
+        103,
+        134,
+        134,
+        134,
+        61,
+        61,
+        61,
+        61
+      ],
+      "latency_seconds": 1.34
+    }
+  },
+  "other_companies": {
+    "Microsoft": {
+      "stated_target": "Carbon negative by 2030; remove all historical carbon emissions (since 1975) by 2050.",
+      "rag_verified_progress": "To achieve its commitment to be carbon negative by 2030 [Microsoft, 2024 (FY23 data), p. 7], Microsoft has made the following progress:\n* **Scope 1 and 2 emissions:** In 2023, Scope 1 and 2 emissions decreased by 6.3% from the 2020 baseline [Microsoft, 2024 (FY23 data), p. 5] (or decreased by 6% from the 2020 base year [Microsoft, 2024 (FY23 data), p. 8]).\n* **Scope 3 emissions:** Indirect emissions (Scope 3) increased by 30.9% from the 2020 baseline [Microsoft, 2024 (FY23 data), p. 5, p. 8]. \n* **Overall emissions:** In aggregate across all Scopes 1\u20133, Microsoft\u2019s overall emissions are up 29.1% from the 2020 baseline [Microsoft, 2024 (FY23 data), p. 5, p. 10].\n* **Renewable energy:** In 2023, Microsoft increased its contracted portfolio of renewable energy assets to more than 19.8 gigawatts (GW), including projects in 21 countries [Microsoft, 2024 (FY23 data), p. 5, p. 9].\n* **Carbon removal:** In FY23, Microsoft contracted 5,015,019 metric tons of carbon removal to be retired over the next 15 years [Microsoft, 2024 (FY23 data), p. 5, p. 9]. Additionally, Microsoft retired 605,354 metric tons of carbon removal in FY23 to achieve its annual target to be carbon neutral [Microsoft, 2024 (FY23 data), p. 10].",
+      "citation_consistent": false,
+      "source_pages": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        11,
+        11,
+        11,
+        13,
+        13
+      ],
+      "latency_seconds": 1.65
+    },
+    "Infosys": {
+      "stated_target": "Carbon neutrality across Scope 1, 2, and 3 emissions maintained every year (ESG Vision 2030); net zero by 2040 (The Climate Pledge).",
+      "rag_verified_progress": "Yes, Infosys has committed to maintaining carbon neutrality across Scope 1, 2, and 3 emissions each year as a part of its ESG Vision 2030 [Infosys, FY2022-23, p. 11]. Its Climate Pledge, in partnership with Amazon and Global Optimism, is to become net zero by 2040 [Infosys, FY2022-23, p. 11].",
+      "citation_consistent": true,
+      "source_pages": [
+        11,
+        11,
+        11,
+        11,
+        14,
+        14,
+        14,
+        16,
+        16,
+        17,
+        17,
+        17,
+        58,
+        58
+      ],
+      "latency_seconds": 0.96
+    },
+    "Siemens Energy": {
+      "stated_target": "Science-based net-zero target; part of Siemens Energy's own decarbonization pathway.",
+      "rag_verified_progress": "Siemens Energy's Scope 1 and Scope 2 greenhouse gas emissions targets and reduction commitments include:\n\n* Aiming to be climate neutral in their own operations by 2030, with a focus on reducing emissions wherever possible and compensating for remaining hard-to-abate emissions from then on [Siemens Energy, FY2024, p. 5], [Siemens Energy, FY2024, p. 84].\n* Reducing absolute Scope 1 and 2 GHG emissions by at least 46% by fiscal year 2025 from the 2019 base year (for Siemens Energy excluding Siemens Gamesa), which is an even greater ambition than the initial target year of 2030 as validated by the SBTi [Siemens Energy, FY2024, p. 2]; [Siemens Energy, FY2024, p. 5]; [Siemens Energy, FY2024, p. 8].\n* Sourcing 100% renewable electricity by fiscal year 2023, a target that was achieved, with the company continuing to source electricity from renewable sources [Siemens Energy, FY2024, p. 2].",
+      "citation_consistent": false,
+      "source_pages": [
+        28,
+        28,
+        28,
+        31,
+        31,
+        31,
+        31,
+        31,
+        33,
+        33,
+        33,
+        84,
+        84
+      ],
+      "latency_seconds": 1.5
+    },
+    "Siemens Brazil": {
+      "stated_target": "Alignment with global Siemens DEGREE sustainability framework and decarbonization commitments.",
+      "rag_verified_progress": "Siemens Brazil has an ambitious goal of achieving net zero by 2030 [Siemens Brazil, 2024, p. 62]. Additionally, the Brazil operation uses 100% electricity from renewable sources [Siemens Brazil, 2024, p. 77].",
+      "citation_consistent": true,
+      "source_pages": [
+        15,
+        15,
+        36,
+        36,
+        62,
+        62,
+        66,
+        66,
+        77,
+        77,
+        78,
+        78
+      ],
+      "latency_seconds": 0.8
+    }
+  }
+}
